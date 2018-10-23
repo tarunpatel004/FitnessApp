@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="progress">progress</string>
+    <string name="name">Name</string>
+
+    <string name="basic1">Name</string>
+    <string name="nameDB">Shah Rukh Khan</string>
+    <string name="nameHint">Enter name</string>
+    <string name="basic2">Phone Number</string>
+    <string name="phoneDB">315-443-1234</string>
+    <string name="phoneHint">Enter Phone Number</string>
+    <string name="basic3">Gender</string>
+    <string name="basic3radio1">Male</string>
+    <string name="basic3radio2">Female</string>
+    <string name="basic4">Age</string>
+    <string name="ageHint">Enter Age</string>
+    <string name="ageDB">50</string>
+    <string name="basic5">Height</string>
+    <string-array name="HeightDropDownFt">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string name="ftHint">Ft</string>
+    <string-array name="HeightDropDownIn">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string name="inHint">In</string>
+    <string name="basic6">Weight</string>
+    <string name="weightHint">Enter Weight</string>
+    <string-array name="weightDropDown">
+        <item>Kgs</item>
+        <item>Lbs</item>
+    </string-array>
+</resources>

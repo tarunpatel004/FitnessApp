@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#26A69A</color>
+
+
+
+    <!--Circle Progressbar colors-->
+    <color name="circle_shader_color">#9b9b9b</color>
+    <color name="circle_progress_color">#1DE9B6</color>
+    <color name="circle_background_color">#B0BEC5</color>
+
+    <!--AppIntro Colors-->
+    <color name="appintro1">#EDD834</color>
+    <color name="appintro2">#FF7E55</color>
+    <color name="appintro3">#FADAA3</color>
+    <color name="appintro4">#72BAAC</color>
+
+</resources>
